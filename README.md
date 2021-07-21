@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NewBird3
+- 👋 Hi, I’m Aboli Shende
 - 👀 I’m interested in Programming (prefer in Python)
 - 🌱 I’m currently learning Django framework for Python with HTML
 - 💞️ I’m looking to collaborate on ...
