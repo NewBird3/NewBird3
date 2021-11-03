@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aboli Shende
-- 👀 I’m interested in Programming (prefer in Python)
-- 🌱 I’m currently learning Django framework for Python with HTML
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science,Python Programming, Data visualization
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to start my professional career as data analyst,data science.
 - 📫 How to reach me shendeaboli@gmail.com
 
 <!---
